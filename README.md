@@ -1,5 +1,5 @@
 # Retake
-
+```
 {
   "Logging": {
     "LogLevel": {
@@ -12,3 +12,4 @@
     "RetakeDatabase": "your string"
   }
 }
+```
